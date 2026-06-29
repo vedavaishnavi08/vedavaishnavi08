@@ -32,22 +32,21 @@ I learn best by building — so most of what's below is "figured it out by doing
 
 <br>
 
+```html
 ## 🧰 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python"/><br>
-<b>Python</b>
-<img src="https://skillicons.dev/icons?i=mysql"/><br>
-<b>SQL</b>
-<img src="https://skillicons.dev/icons?i=html"/><br>
-<b>HTML</b>
-<img src="https://skillicons.dev/icons?i=css"/><br>
-<b>CSS</b>
-<img src="https://skillicons.dev/icons?i=vscode"/><br>
-<b>VSCODE</b>
-<img src="https://skillicons.dev/icons?i=linux"/><br>
-<b>LINUX</b>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,linux" height="40"/>
 </p>
+
+<p align="center">
+  <sub>
+    Python &nbsp;&nbsp; SQL &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS &nbsp;&nbsp;
+    Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code &nbsp;&nbsp; Linux
+  </sub>
+</p>
+```
+
 
 ## 📁 Projects
 
