@@ -33,18 +33,23 @@ I learn best by building — so most of what's below is "figured it out by doing
 <br>
 
 
+
 ## 🧰 Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,linux" height="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br><sub>Python</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br><sub>SQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"/><br><sub>HTML</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"/><br><sub>CSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"/><br><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" height="40"/><br><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" height="40"/><br><sub>VS Code</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" height="40"/><br><sub>Linux</sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <sub>
-    Python &nbsp;&nbsp; SQL &nbsp;&nbsp; HTML &nbsp;&nbsp; CSS &nbsp;&nbsp;
-    Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code &nbsp;&nbsp; Linux
-  </sub>
-</p>
+
 
 
 
