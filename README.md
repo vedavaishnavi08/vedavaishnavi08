@@ -63,7 +63,7 @@ A command-line task manager — add, edit, delete, and mark tasks done, with eve
 <summary>📈 Contribution graph</summary>
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedavaishnavi08&theme=redual&hide_border=true" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedavaishnavi08&theme=github&hide_border=true" alt="Contribution graph"/>
 
 </details>
 
