@@ -32,7 +32,7 @@ I learn best by building — so most of what's below is "figured it out by doing
 
 <br>
 
-```html
+
 ## 🧰 Skills
 
 <p align="center">
@@ -45,7 +45,7 @@ I learn best by building — so most of what's below is "figured it out by doing
     Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; VS Code &nbsp;&nbsp; Linux
   </sub>
 </p>
-```
+
 
 
 ## 📁 Projects
