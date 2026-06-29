@@ -37,11 +37,16 @@ I learn best by building — so most of what's below is "figured it out by doing
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python"/><br>
 <b>Python</b>
-
 <img src="https://skillicons.dev/icons?i=mysql"/><br>
 <b>SQL</b>
-
-...
+<img src="https://skillicons.dev/icons?i=html"/><br>
+<b>HTML</b>
+<img src="https://skillicons.dev/icons?i=css"/><br>
+<b>CSS</b>
+<img src="https://skillicons.dev/icons?i=vscode"/><br>
+<b>VSCODE</b>
+<img src="https://skillicons.dev/icons?i=linux"/><br>
+<b>LINUX</b>
 </p>
 
 ## 📁 Projects
