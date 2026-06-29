@@ -35,7 +35,13 @@ I learn best by building — so most of what's below is "figured it out by doing
 ## 🧰 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python"/><br>
+<b>Python</b>
+
+<img src="https://skillicons.dev/icons?i=mysql"/><br>
+<b>SQL</b>
+
+...
 </p>
 
 ## 📁 Projects
