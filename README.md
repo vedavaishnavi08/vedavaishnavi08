@@ -34,9 +34,9 @@ I learn best by building — so most of what's below is "figured it out by doing
 
 ## 🧰 Skills
 
-`Python` `SQL` `HTML` `CSS` `Git` `GitHub` `VS Code`
-
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" />
+</p>
 
 ## 📁 Projects
 
