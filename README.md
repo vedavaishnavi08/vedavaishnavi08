@@ -1,85 +1,79 @@
-<h1 align="center">Hi 👋, I'm Veda Vaishnavi</h1>
-<h3 align="center">B.Tech Student & Aspiring Software Developer</h3>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+# 👋 Hey, I'm Veda Vaishnavi
+
+**B.Tech student | Software Developer | Building with a security-conscious mindset**
+
+<img src="https://komarev.com/ghpvc/?username=vedavaishnavi08&label=Profile+Views&color=8a2be2&style=flat-square" alt="profile views" />
+
+</td>
+<td width="40%">
+<img src="https://stories.freepiklabs.com/storage/4184/Typing-bro.svg" width="100%" alt="girl typing on laptop illustration"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎯 What I'm About
+
+I'm a B.Tech student focused on software development, with a particular interest in writing code that's not just functional but mindful of how it could be misused or broken. That curiosity led me into things like steganography and data handling — areas where understanding *how things go wrong* makes you a better builder.
+
+Right now, that means:
+
+- Writing Python projects to get comfortable with logic, file handling, and clean code
+- Picking up SQL to understand how data actually lives and moves
+- Brushing up on HTML & CSS basics
+- Exploring how data can be hidden, exposed, or protected — and what that means for writing safer code
+
+I learn best by building — so most of what's below is "figured it out by doing," not coursework.
+
+<br>
+
+## 🧰 Skills
+
+`Python` `SQL` `HTML` `CSS` `Git` `GitHub` `VS Code`
+
+<br>
+
+## 📁 Projects
+
+**[image_steganography](https://github.com/vedavaishnavi08/image_steganography)**
+Hides a text message or a black-and-white image inside another image using LSB (Least Significant Bit) manipulation — the cover image looks unchanged but secretly carries the hidden data. Also includes PSNR/SSIM scripts to measure how much the image quality actually changes.
+
+**[python-todo-list](https://github.com/vedavaishnavi08/python-todo-list)**
+A command-line task manager — add, edit, delete, and mark tasks done, with everything saved to a file automatically so nothing's lost between runs.
+
+<br>
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedavaishnavi08&label=Profile%20views&color=0e75b6&style=flat" alt="vedavaishnavi08" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-```js
-const vedaVaishnavi = {
-    name: "Veda Vaishnavi",
-    role: "B.Tech Student & Aspiring Developer",
-    location: "India 🇮🇳",
-    currentFocus: "Building Python projects & exploring CS fundamentals",
-    learning: ["DSA", "Python", "SQL", "Web Development"],
-    funFact: "I enjoy turning small ideas into working code 😄"
-};
-```
-
-- 🎓 B.Tech student exploring software development
-- 🐍 Building projects in **Python**
-- 🎯 Long-term goal is **Cybersecurity** — starting with software development to build a strong foundation first
-- 🔐 Interested in **security & problem-solving** based projects
-- 💡 Always learning something new
-- 📫 Reach me at **vedavaishnavi08** on GitHub
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Used |
-|---|---|---|
-| 🖼️ [**image_steganography**](https://github.com/vedavaishnavi08/image_steganography) | Hides secret text or a binary image inside a cover image using Least Significant Bit (LSB) steganography. Includes PSNR/SSIM quality checks and a pixel inspector tool. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| ✅ [**python-todo-list**](https://github.com/vedavaishnavi08/python-todo-list) | A command-line Todo List app to add, view, edit, delete, and mark tasks complete — with tasks automatically saved to a file. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedavaishnavi08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Veda's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedavaishnavi08&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vedavaishnavi08&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedavaishnavi08&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vedavaishnavi08&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=vedavaishnavi08&theme=radical&hide_border=true" alt="GitHub streak"/>
 </p>
 
----
+<details>
+<summary>📈 Contribution graph</summary>
+<br>
 
-### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedavaishnavi08&theme=redual&hide_border=true" alt="Contribution graph"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedavaishnavi08&theme=tokyo-night" alt="Veda's Contribution Graph"/>
-</p>
+</details>
 
----
+<br>
 
-### 🤝 Let's Connect
+## 🤝 Find Me Elsewhere
 
-<p align="center">
-  <a href="https://github.com/vedavaishnavi08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vedavaishnavi08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vedavyshnavi-chekuri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-vedavaishnavi08-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vedavaishnavi08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedavyshnavi-chekuri/)
+
+<br>
+
+<sub>Illustration by <a href="https://storyset.com/people">Storyset</a></sub>
